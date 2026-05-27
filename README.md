@@ -1,4 +1,4 @@
-# 46755 Renewables in Electricity Markets — Assignment 1
+# Electricity Market Clearing — IEEE 24-Bus System
 
 Market clearing optimization models for an IEEE 24-bus power system, covering day-ahead, balancing, and reserve markets under various network and storage configurations.
 
@@ -20,7 +20,7 @@ pip install pandas numpy matplotlib
 ## Project Structure
 
 ```
-Assignment/
+electricity-market-clearing/
 ├── models/
 │   ├── Step_1.py        # Copper-plate, single hour
 │   ├── Step_2.py        # Copper-plate, 24 hours with BESS
